@@ -1,0 +1,8 @@
+# environment
+.venv
+.env
+
+# python execute file
+*__pyc__
+*__pycache__
+*.csv
